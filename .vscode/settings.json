@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Applications/apache-tomcat-9.0.44/**/*.jar"
+    ]
+}

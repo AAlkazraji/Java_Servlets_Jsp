@@ -1,0 +1,8 @@
+<Context>
+	<Resource name="jdbc/itservices"
+    type="javax.sql.DataSource"
+    username="group18"
+    password="mySecur3Passw0rd!"
+    driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+    url="jdbc:sqlserver://localhost\SQLEXPRESS;databaseName=SENG2050_IT_SERVICE"  />
+</Context>

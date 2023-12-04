@@ -1,0 +1,19 @@
+
+===================  Admins Login ===============================
+Emails                                       Passwords              
+-----------------------------------------------------------------
+hayden.cheers@gmail.com                      mySecur3Passw0rd       
+yuqing.lin@gmail.com                         YuqingLin              
+Jack@gmail.com                               JackBigMac             
+Mike@gmail.com   			     MikeHunt               
+-----------------------------------------------------------------
+
+
+
+===================  Users Login ================================
+Emails                                       Passwords              
+-----------------------------------------------------------------
+Grand@gmail.com 			     GrandNewy              
+Ana@gmail.com 				     AnaSeng2050            
+Games@gmail.com  			     TheDumbAss             
+-----------------------------------------------------------------      

@@ -1,0 +1,48 @@
+Files included
+
+before running the assigment please ensure that you bulid the database 
+included in submission files called Database.sql
+you also need to compile all java files before running the project 
+
+to start up the assignment please enter http://localhost:8080/Group18_FinalProject/
+
+the submission has Context.xml with url="jdbc:sqlserver://localhost\SQLEXPRESS;databaseName=SENG2050_IT_SERVICE"
+if youre using Mac please change the url in context.xml to url="jdbc:sqlserver://localhost;databaseName=SENG2050_IT_SERVICE"
+
+
+1-Read-me.txt: instractions to start up the project.
+2-Account.txt: users accounts && admins accounts with thire passwords 
+3-Database.sql: database of the system
+4-Style.css: styling of the project
+5-validate.js: inputs validations on clints side
+
+6-createIssues.jsp: page to report new issues
+7-issue.jsp: page to show the details of reported isses
+8-issueList.jsp: page shows all the issues reported to the admins and all the issues that reported to the user that reported by that user
+9-knowledgeBase.jsp: page to show solved issues
+10-Login.jsp: login page for users and admins
+11-MainPage.jsp: the main page of the project, the page will asks to login or create account to report new issue
+12-managment.jsp: page to be used by the admins to show list of all users in system.
+13-NewUser.jsp: page for new users to create accounts
+14-sortTable.js: sorting algorthm [NOT IN USE]
+15-userView.jsp: main page after the user logedin.
+16-viewIssues.jsp: page shows list of issues
+
+17-CommentBean.java
+18-ConfigBean.java
+19-CreateAccountServlet.java
+20-CreateIssueServlate.java
+21-IssueListBean.java
+22-IssueListServlate.java 
+23-IssuesBean.java
+24-IssueServlet.java
+25-KnowledgeBaseServlet.java
+26-LoginServlet.java
+27-Main.java
+28-ManagmentServlet.java
+29-PersonBean.java
+30-UserViewServlate.java
+31-context.xml
+
+
+
